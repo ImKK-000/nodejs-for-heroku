@@ -1,0 +1,20 @@
+{
+  "name": "nodejs-for-heroku",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "git@github.com:ImKK000/nodejs-for-heroku.git",
+  "author": "Nattakit Boonyang <nattakit.boonyang@gmail.com>",
+  "license": "MIT",
+  "description": "Nodejs for Heroku",
+  "private": true,
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3"
+  },
+  "devDependencies": {
+    "nodemon": "^1.17.3"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
